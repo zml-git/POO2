@@ -1,0 +1,16 @@
+C:\Users\44193184811\source\repos\semana 4\bin\Debug\net10.0\semana 4.exe
+C:\Users\44193184811\source\repos\semana 4\bin\Debug\net10.0\semana 4.deps.json
+C:\Users\44193184811\source\repos\semana 4\bin\Debug\net10.0\semana 4.runtimeconfig.json
+C:\Users\44193184811\source\repos\semana 4\bin\Debug\net10.0\semana 4.dll
+C:\Users\44193184811\source\repos\semana 4\bin\Debug\net10.0\semana 4.pdb
+C:\Users\44193184811\source\repos\semana 4\obj\Debug\net10.0\semana 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44193184811\source\repos\semana 4\obj\Debug\net10.0\semana 4.AssemblyInfoInputs.cache
+C:\Users\44193184811\source\repos\semana 4\obj\Debug\net10.0\semana 4.AssemblyInfo.cs
+C:\Users\44193184811\source\repos\semana 4\obj\Debug\net10.0\semana 4.csproj.CoreCompileInputs.cache
+C:\Users\44193184811\source\repos\semana 4\obj\Debug\net10.0\semana 4.dll
+C:\Users\44193184811\source\repos\semana 4\obj\Debug\net10.0\refint\semana 4.dll
+C:\Users\44193184811\source\repos\semana 4\obj\Debug\net10.0\semana 4.pdb
+C:\Users\44193184811\source\repos\semana 4\obj\Debug\net10.0\semana 4.genruntimeconfig.cache
+C:\Users\44193184811\source\repos\semana 4\obj\Debug\net10.0\ref\semana 4.dll
+C:\Users\44193184811\source\repos\semana 4\obj\Debug\net10.0\semana 4.csproj.Up2Date
+C:\Users\44193184811\source\repos\semana 4\obj\Debug\net10.0\semana 4.sourcelink.json
