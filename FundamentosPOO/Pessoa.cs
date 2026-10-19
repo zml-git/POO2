@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Channels;
 
-namespace semana_4
+namespace FundamentosPOO
 {
     public class Pessoa
     {

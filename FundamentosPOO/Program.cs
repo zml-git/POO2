@@ -34,7 +34,7 @@
 ///Lista 1: Classes e Objetos
 //ex 1  
 
-using semana_4;
+using FundamentosPOO;
 
 Pessoa Apresentar = new Pessoa();
 Pessoa Apresentar2 = new Pessoa();
@@ -75,6 +75,5 @@ string frase = ana.ObterApresentacao();
 Console.WriteLine(frase);
 
 //ex 2
-
-//muito que bem
 Console.WriteLine("github teste");
+

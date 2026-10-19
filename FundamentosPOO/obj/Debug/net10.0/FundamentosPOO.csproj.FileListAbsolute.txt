@@ -1,0 +1,5 @@
+C:\Users\44193184811\Documents\POO\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44193184811\Documents\POO\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.AssemblyInfoInputs.cache
+C:\Users\44193184811\Documents\POO\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.AssemblyInfo.cs
+C:\Users\44193184811\Documents\POO\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.csproj.CoreCompileInputs.cache
+C:\Users\44193184811\Documents\POO\FundamentosPOO\obj\Debug\net10.0\FundamentosPOO.sourcelink.json

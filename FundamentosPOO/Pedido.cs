@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace semana_4
+namespace FundamentosPOO
 {
     // Classes - Moldes
     public class Pedido

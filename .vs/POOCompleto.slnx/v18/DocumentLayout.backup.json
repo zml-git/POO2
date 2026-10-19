@@ -1,19 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\44193184811\\Documents\\POO\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\44193184811\\documents\\poo\\pilarespoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\44193184811\\documents\\poo\\pilarespoo\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\44193184811\\documents\\poo\\pilarespoo\\exercicios\\calculadoradearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\exercicios\\calculadoradearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\44193184811\\documents\\poo\\pilarespoo\\exercicios\\violao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\exercicios\\violao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\44193184811\\documents\\poo\\pilarespoo\\exercicios\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\exercicios\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 181,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44193184811\\Documents\\POO\\PilaresPOO\\Program.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\44193184811\\Documents\\POO\\PilaresPOO\\Program.cs*",
+              "RelativeToolTip": "PilaresPOO\\Program.cs*",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:24:10.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INotificador.cs",
+              "DocumentMoniker": "C:\\Users\\44193184811\\Documents\\POO\\PilaresPOO\\INotificador.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\INotificador.cs",
+              "ToolTip": "C:\\Users\\44193184811\\Documents\\POO\\PilaresPOO\\INotificador.cs",
+              "RelativeToolTip": "PilaresPOO\\INotificador.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:30:53.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculadoraDeArea.cs",
+              "DocumentMoniker": "C:\\Users\\44193184811\\Documents\\POO\\PilaresPOO\\Exercicios\\CalculadoraDeArea.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Exercicios\\CalculadoraDeArea.cs",
+              "ToolTip": "C:\\Users\\44193184811\\Documents\\POO\\PilaresPOO\\Exercicios\\CalculadoraDeArea.cs",
+              "RelativeToolTip": "PilaresPOO\\Exercicios\\CalculadoraDeArea.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:27:00.746Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Violao.cs",
+              "DocumentMoniker": "C:\\Users\\44193184811\\Documents\\POO\\PilaresPOO\\Exercicios\\Violao.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Exercicios\\Violao.cs",
+              "ToolTip": "C:\\Users\\44193184811\\Documents\\POO\\PilaresPOO\\Exercicios\\Violao.cs",
+              "RelativeToolTip": "PilaresPOO\\Exercicios\\Violao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:15:53.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instrumento.cs",
+              "DocumentMoniker": "C:\\Users\\44193184811\\Documents\\POO\\PilaresPOO\\Exercicios\\Instrumento.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Exercicios\\Instrumento.cs",
+              "ToolTip": "C:\\Users\\44193184811\\Documents\\POO\\PilaresPOO\\Exercicios\\Instrumento.cs",
+              "RelativeToolTip": "PilaresPOO\\Exercicios\\Instrumento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:11:51.325Z",
+              "EditorCaption": ""
             }
           ]
         }
